@@ -5,7 +5,7 @@ const sharp= require("sharp")
 
 const {getObjectSignedUrl, uploadFile} = require("../s3.js")
 
-const crypto = require("node:crypto")
+const crypto = require("crypto")
 
 
 const generateFileName = (bytes = 32) => crypto.randomBytes(bytes).toString('hex')
