@@ -9,7 +9,7 @@ const Home = ()=>{
 
   useEffect(()=>{
 
-axios.get('http://localhost:8080/api/blogs')
+axios.get('https://blogapps3.onrender.com/api/blogs')
   .then((response)=>{
     setBlogs(response.data)
   })

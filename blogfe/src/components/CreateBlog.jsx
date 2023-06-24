@@ -47,7 +47,7 @@ const CreateBlog =()=>{
     formData.append("content",content)
 
     
-    await axios.post("http://localhost:8080/api/blogs", formData,{headers:{"content-type": "multipart/form-data"}})
+    await axios.post("https://blogapps3.onrender.com/api/blogs", formData,{headers:{"content-type": "multipart/form-data"}})
   
     setAuthor("")
     setHeading("")
