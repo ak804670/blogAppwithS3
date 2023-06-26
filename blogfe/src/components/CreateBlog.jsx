@@ -53,6 +53,7 @@ const CreateBlog =()=>{
     setHeading("")
     setContent("")
     setFile()
+    setFormImage()
   }
 
 
