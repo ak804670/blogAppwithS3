@@ -3,6 +3,8 @@
 <h3 align="center">
   Blog Website Home page preview <br/>
   <a href="https://blogappbyanish.onrender.com/" target="_blank"><img alt="Demo" src="./redme-Img.png" /> </a>
+  Blog Website individual Model for more information 
+   <a href="https://blogappbyanish.onrender.com/create" target="_blank"><img alt="Demo" src="./redme-Img2.png" /> </a>
   Blog Website Create Blog page preview <br/>
   <a href="https://blogappbyanish.onrender.com/create" target="_blank"><img alt="Demo" src="./redme-Img1.png" /> </a>
 </h3>
